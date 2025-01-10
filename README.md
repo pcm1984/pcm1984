@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pankaj Mulay
 ====================================================================================================================================
 
-Lead Software Developer
+Software Engineer/Technical Architect
 -----------------------
 
-I am a Software developer helping clients in the telecommunications, banking, healthcare and businesses intelligence industries bring their business to the next level using Java and related technologies since 18 years. Ever since my engineering final year seminar on Extreme programming, I have loved agile methodologies as they are more intuitive to the software developer and the ultimate consumer alike. My specialities include quickly learning new technologies and programming languages and using them while designing and implementing complex applications.
+I am a Software engineer helping clients in the telecommunications, banking, healthcare and businesses intelligence industries bring their business to the next level using Java and related technologies since 18 years. Ever since my engineering final year seminar on Extreme programming, I have loved agile methodologies as they are more intuitive to the software developer and the ultimate consumer alike. My specialities include quickly learning new technologies and programming languages and using them while designing and implementing complex applications.
 
 * 🌍  I'm based in Toronto
 * ✉️  You can contact me at [mulay.pankaj@yahoo.com](mailto:mulay.pankaj@yahoo.com)
